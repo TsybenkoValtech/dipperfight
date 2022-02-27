@@ -10,5 +10,5 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: "curl http://google.com"
+- script: "curl http://www.sovrep.gov.by/"
   displayName: 'Dipper fights'
